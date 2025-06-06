@@ -30,9 +30,9 @@
 
 - Les entrées sont titrées via `## [Nom du terme]`
 - Chaque terme est encadré par un **type**, un **rôle narratif**, et une **citation utile**
-- Utilise le tag `#glossaire` dans chaque fichier pour Dataview
-- Préfère des définitions synthétiques plutôt qu’un lexique encyclopédique
+- Utiliser le tag `#glossaire` dans chaque fichier pour Dataview
+- Préférer des définitions synthétiques plutôt qu’un lexique encyclopédique
 
 ---
 
-> Dernière mise à jour : {{DATE}}
+> Dernière mise à jour : {{06/06/2025}}
