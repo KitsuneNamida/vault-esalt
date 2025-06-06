@@ -9,7 +9,7 @@
 ## 👤 Identité
 
 - **Espèce :** [[Kémo Lupus]]
-- **Caste :** [[Varkh]]
+- **Caste :** [[Varkh]] (Voir : [[98_1_Glossaire_Castes#🟣 Varkh]])
 - **Âge :** 19 ans
 - **Origine :** [[Famille Hamilton]]
 - **Lieu de vie :** [[UVM-12]]
