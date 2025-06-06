@@ -6,14 +6,14 @@
 
 ## 📖 Glossaires disponibles
 
-| Fichier                         | Thème                                                  | Statut       | Accès |
-|--------------------------------|---------------------------------------------------------|--------------|-------|
-| [[98_1_Glossaire_Castes]]      | Castes Kémo, effets phéromonaux, dynamiques sociales    | 🟡 À compléter | 🔗 |
-| [[98_2_Glossaire_Lieux]]       | Lieux clés, bâtiments, géographie narrative             | 🔵 En cours   | 🔗 |
-| [[98_3_Glossaire_Artefacts]]   | Objets, technologies, outils rituels                    | ⚪ Vide        | 🔗 |
-| [[98_4_Glossaire_Rituels]]     | Pratiques, cérémonies, traditions                       | ⚪ Vide        | 🔗 |
-| [[98_5_Glossaire_Biologie]]    | Anatomie, hybridation, spécificités physiques           | ⚪ Vide        | 🔗 |
-| [[98_6_Glossaire_Slang]]       | Expressions, surnoms, jargon inter-espèce               | ⚪ Vide        | 🔗 |
+| Fichier                      | Thème                                                | Statut         | Accès |
+| ---------------------------- | ---------------------------------------------------- | -------------- | ----- |
+| [[98_1_Glossaire_Castes]]    | Castes Kémo, effets phéromonaux, dynamiques sociales | 🟡 À compléter | 🔗    |
+| [[98_2_Glossaire_Lieux]]     | Lieux clés, bâtiments, géographie narrative          | 🔵 En cours    | 🔗    |
+| [[98_3_Glossaire_Artefacts]] | Objets, technologies, outils rituels                 | ⚪ Vide         | 🔗    |
+| [[98_4_Glossaire_Rituels]]   | Pratiques, cérémonies, traditions                    | ⚪ Vide         | 🔗    |
+| [[98_5_Glossaire_Biologie]]  | Anatomie, hybridation, spécificités physiques        | ⚪ Vide         | 🔗    |
+| [[98_6_Glossaire_Slang]]     | Expressions, surnoms, jargon inter-espèce            | ⚪ Vide         | 🔗    |
 
 ---
 

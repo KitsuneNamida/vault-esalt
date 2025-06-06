@@ -77,7 +77,6 @@
 
 ## 🏫 Foyer narratif principal : [[UVM-12]]
 
-- Université mixte expérimentale, gérée par [[STARE]]  
 - Située sur un plateau froid (cf. climat de type Oulan-Bator)  
 - Trois zones : humaine [[UVM12-H]], kémo [[UVM12-K]], mixte [[UVM12-Center]] (campus, administration, commerces).
 - Étudiants notables : [[London F. Hamilton]], [[Auren P. Bordage]]

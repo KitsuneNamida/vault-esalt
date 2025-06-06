@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.2 - Entrées croisées.md",
+                "file": "01 - Univers/Phéromones & interactions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.2 - Entrées croisées"
+              "title": "Phéromones & interactions"
             },
             "group": "d17a32aea7eadc5b"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.2 - Entrées croisées.md",
+                "file": "01 - Univers/Phéromones & interactions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 01.2 - Entrées croisées"
+              "title": "Graphique de Phéromones & interactions"
             },
             "group": "d17a32aea7eadc5b"
           }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.2 - Entrées croisées.md",
+                "file": "01 - Univers/Phéromones & interactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour 01.2 - Entrées croisées"
+              "title": "Rétrolien pour Phéromones & interactions"
             }
           },
           {
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.2 - Entrées croisées.md",
+                "file": "01 - Univers/Phéromones & interactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de 01.2 - Entrées croisées"
+              "title": "Liens sortants de Phéromones & interactions"
             }
           },
           {
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.2 - Entrées croisées.md",
+                "file": "01 - Univers/Phéromones & interactions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 01.2 - Entrées croisées"
+              "title": "Plan de Phéromones & interactions"
             }
           }
         ]
@@ -216,17 +216,21 @@
   },
   "active": "65594082cded7173",
   "lastOpenFiles": [
+    "01 - Univers/Lore Général.md",
+    "01 - Univers/Répartition Humains et Kémos.md",
+    "98 - Glossaire/98_2_Glossaire_Lieux.md",
+    "98 - Glossaire/98_0_Index_Glossaire.md",
+    "98 - Glossaire/98_1_Glossaire_Castes.md",
+    "02 - Personnages/London F. Hamilton.md",
+    "02 - Personnages/Auren P. Bordage.md",
+    "01 - Univers/Phéromones & interactions.md",
+    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.2 - Entrées croisées.md",
     "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.1 - L’auditorium, les regards, les silences.md",
     "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.0 - Collision.md",
-    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.2 - Entrées croisées.md",
-    "98 - Glossaire/98_0_Index_Glossaire.md",
     "06 - Formulaires/FICHE_ENTREEJOURNAL_VULPESLAGO741.md",
     "README.md",
     "Nouveau Text Document.txt",
     "98 - Glossaire",
-    "01 - Univers/Lore Général.md",
-    "01 - Univers/Répartition Humains et Kémos.md",
-    "02 - Personnages/London F. Hamilton.md",
     "Université Polyspécifique Sarasvati.md",
     "06 - Formulaires/FICHE_SCENE_MODELE.md",
     "07 - Roman/07.1 - Chapitres/07.1_06 - Apprentissage",
@@ -234,14 +238,12 @@
     "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement",
     "07 - Roman/07.1 - Chapitres/07.1_03 - Retour marqué",
     "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London",
-    "02 - Personnages/Auren P. Bordage.md",
     "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre",
     "07 - Roman/07.2 - Annexes",
     "07 - Roman/07.1 - Chapitres",
     "05 - Annexes/05.1 - Visuels/auren_portrait.jpeg",
     "05 - Annexes/05.1 - Visuels/5HKMD5A405C8JQX1Y3Y8E8TG30.jpeg",
     "05 - Annexes/05.1 - Visuels/london_portrait.jpeg",
-    "01 - Univers/Phéromones & interactions.md",
     "06 - Formulaires/FICHE_PERSO_MODELE.md",
     "Phéromones et interactions.md",
     "Varkh.md",
