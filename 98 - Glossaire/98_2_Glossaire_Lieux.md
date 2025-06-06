@@ -1,32 +1,51 @@
 # 🏙️ Glossaire des lieux
 
-> Ce glossaire regroupe les lieux notables de l’univers **Esalt**, qu’ils soient publics, privés, ou institutionnels.  
-> Chaque entrée précise le type de lieu, sa fonction, son ambiance, et parfois un extrait narratif pour contextualiser.
+> Ce glossaire regroupe les lieux notables de l’univers **Esalt**, qu’ils soient résidentiels, institutionnels, ou personnels.  
+> Ils sont classés par importance narrative et dotés de liens internes pour navigation transversale.
 
 ---
 
-## 🏫 UVM-12
+## 🏢 UVM-12
 
-**Type :** Université publique pluri-disciplinaire  
-**Localisation :** Centre-ville de Vassk  
+**Type :** Foyer d’intégration inter-espèces (humains/kémos)  
+**Localisation :** Plateau froid (climat de type Oulan-Bator)  
+**Structure :**  
+- [[UVM12-H]] → Quartier humain  
+- [[UVM12-K]] → Quartier kémo  
+- [[UVM12-Center]] → Zone mixte (Université Sarasvati, administration, commerces)
+
+**Fonction :**  
+- Centre de cohabitation sociale contrôlée  
+- Encadré par des protocoles STARE  
+- Étudiants notables : [[London F. Hamilton]], [[Auren P. Bordage]]
+
+> “Là-haut, même l’air avait besoin d’être surveillé.”  
+> #lieu #uvm12 #intégration #zones
+
+---
+
+## 🏫 Université Sarasvati
+
+**Type :** Université inter-espèces  
+**Localisation :** [[UVM12-Center]]  
 **Particularités :**  
-- Regroupe plusieurs unités de formation humaine et kémo  
-- Mélange d’architecture moderne et industrielle rénovée  
-- Centre d’expérimentation sociale (sous couvert de neutralité académique)
+- Cursus communs humains/kémos  
+- Surveillance phéromonale indirecte  
+- Lieu de tensions latentes et d'observation sociale
 
-> “Le couloir résonnait encore du choc. Ici, même les murs portaient l’ambiguïté des cohabitations imposées.”  
-> #lieu #université #uvm12
+> “On ne choisissait pas Sarasvati. On y était affecté. Assigné.”  
+> #lieu #enseignement #sarasvati
 
 ---
 
 ## 🏘️ Maison des Hamilton
 
 **Type :** Résidence familiale kémo  
-**Occupants :** London F. Hamilton, parfois sa mère et ses frères  
-**Ambiance :** Spacieux, chaleureux, mais chargé d’une tension latente  
-**Zones notables :**
-- Salle à manger (lieu du premier contact phéromonal)
-- Atelier de London (pièce sanctuarisée, lien fort avec sa caste)
+**Occupants :** [[London F. Hamilton]], famille Hamilton  
+**Localisation :** Probablement dans [[UVM12-K]]  
+**Zones internes :**  
+- Salle à manger (scène du premier contact)  
+- Atelier de London (lieu personnel, symbolique fort)
 
 > “La table grinçait, mais ce n’était pas le bois qui pesait dans la pièce.”  
 > #lieu #résidence #hamilton
@@ -35,49 +54,62 @@
 
 ## 🧰 Atelier de London
 
-**Type :** Espace de travail personnel  
-**Fonction :** Travail du cuir, créations artisanales  
-**Ambiance :** Feutrée, saturée d’odeurs, très personnelle  
-**Accès :** Restreint. Lieu symboliquement intime pour London.
+**Type :** Atelier personnel (travail du cuir)  
+**Localisation :** Intégré à la maison Hamilton  
+**Particularités :**  
+- Saturé d’identité sensorielle et de phéromones  
+- Lieu d’introspection et de solitude
 
-> “Ici, chaque outil avait sa place. Chaque silence aussi.”  
+> “Chaque odeur ici était une signature. Chaque silence, un territoire.”  
 > #lieu #atelier #intime
 
 ---
 
 ## 🌆 Ville de Vassk
 
-**Type :** Métropole urbaine mixte  
+**Type :** Capitale régionale / Zone de cohabitation expérimentale  
 **Particularité :**  
-- Centre d’intégration kémos-humains sous surveillance STARE  
-- Contrastes sociaux marqués, zones cloisonnées selon les espèces  
-- Infrastructure conçue pour être théoriquement neutre
+- Centre névralgique du projet STARE  
+- Foyers, campus, infrastructures mixtes  
+- Architecture clivée : zones neutres, cloisonnées ou "filtrées"
 
-> “Vassk voulait être exemplaire. Elle n’était qu’un décor bien éclairé.”  
+> “Vassk voulait ressembler au futur. Elle n’était qu’une transition trop propre.”  
 > #lieu #ville #vassk
 
 ---
 
-## 🔧 STARE (infrastructure)
+## 🛑 Infrastructure STARE
 
-**Type :** Structure de régulation inter-espèce  
-**Statut :** Système réparti, présent dans toute la ville  
-**Fonction :** Contrôle, anonymat, surveillance comportementale  
-**Lieux associés :** Portiques, zones tampon, détecteurs de saturation phéromonale
+**Type :** Dispositif invisible mais omniprésent  
+**Présence :** Capteurs, portiques, réseaux, protocoles humains  
+**Fonction :** Surveillance phéromonale et comportementale, sécurisation des contacts inter-espèces  
+**Zone d'action :** Tout [[UVM-12]] et zones connectées
 
 > “Même dans le silence, STARE voyait. Toujours.”  
-> #lieu #infrastructure #stare
+> #lieu #surveillance #stare
 
 ---
 
-## 🔜 À venir
+## 📂 Zones internes de l’UVM-12
 
-- Résidence d’Auren
-- Amphi ou salle de cours
-- Cafétéria du campus
-- Centre STARE
-- Quartiers mixtes / cloisonnés
-- Zones “neutres” où les phéromones sont filtrées
+### 🔴 [[UVM12-H]]
+**Type :** Secteur humain  
+**Fonction :** Logements, réfectoires, salles communes  
+**Particularité :** Conçu pour réduire l’exposition aux signaux phéromonaux
+
+---
+
+### 🟢 [[UVM12-K]]
+**Type :** Secteur kémo  
+**Fonction :** Quartier résidentiel spécifique  
+**Particularité :** Conçu selon les besoins sensoriels et cycles biologiques kémos
+
+---
+
+### 🟣 [[UVM12-Center]]
+**Type :** Zone mixte  
+**Fonction :** Université, administration, espace social neutre  
+**Particularité :** Zone la plus contrôlée, zone de frottement culturel
 
 ---
 
