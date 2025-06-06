@@ -80,7 +80,7 @@ _Style visuel cible_ : Grunge anime x Concept art x Artgerm light — ambiance i
 
 ---
 
-## ⚙️ PARAMÈTRES DE GÉNÉRATION IA
+# ⚙️ PARAMÈTRES DE GÉNÉRATION IA
 
 ### 🧠 Paramètres recommandés
 
@@ -103,7 +103,7 @@ _Style visuel cible_ : Grunge anime x Concept art x Artgerm light — ambiance i
 
 ---
 
-# 🧠 PROMPTS IA — AUREN PIER BORDAGE
+## 🧠 PROMPTS IA — AUREN PIER BORDAGE
 
 ## ✨ Prompt Positif (Stable Diffusion / SDXL)
 

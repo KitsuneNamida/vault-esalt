@@ -95,6 +95,29 @@ _Style visuel cible_ : Grunge anime x Concept art x Artgerm intense — ambiance
 
 ---
 
+# ⚙️ PARAMÈTRES DE GÉNÉRATION IA
+
+### 🧠 Paramètres recommandés
+
+- **Checkpoint** : `WAI-NSFW-illustrious-SDXL v14.0`  
+- **CFG Scale** : `7.0`  
+- **Steps** : `30`  
+- **Sampler** : `DPM++ 2M Karras` (ou `Heun` pour ambiance introspective)  
+- **Seed** : `2117688402` (facultatif mais stable)
+
+---
+
+### 🧩 LoRA recommandés
+
+- `good looking male:0.8`  
+- `Enchanting Eyes (Detailed Eyes):0.25`  
+- `Anime Male Styles:0.85`  
+- `Cyberpunk style illustriousXL:0.4`  
+- `Stabilizer IL/NAI:0.50`  
+-  LoRA Fluffy Fur:0.40 (*pour fourrure dense, mais réaliste*)
+
+---
+
 # 🧠 PROMPTS IA — LONDON F. HAMILTON
 
 ## ✨ Prompt Positif (Style Artgerm / SDXL / Grunge Anime)
