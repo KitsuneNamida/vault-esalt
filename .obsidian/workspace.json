@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Univers/Lore Général.md",
+                "file": "01 - Univers/Répartition Humains et Kémos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lore Général"
+              "title": "Répartition Humains et Kémos"
             },
             "group": "d17a32aea7eadc5b"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Univers/Lore Général.md",
+                "file": "01 - Univers/Répartition Humains et Kémos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Lore Général"
+              "title": "Graphique de Répartition Humains et Kémos"
             },
             "group": "d17a32aea7eadc5b"
           }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Univers/Lore Général.md",
+                "file": "01 - Univers/Répartition Humains et Kémos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Lore Général"
+              "title": "Rétrolien pour Répartition Humains et Kémos"
             }
           },
           {
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Univers/Lore Général.md",
+                "file": "01 - Univers/Répartition Humains et Kémos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Lore Général"
+              "title": "Liens sortants de Répartition Humains et Kémos"
             }
           },
           {
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Univers/Lore Général.md",
+                "file": "01 - Univers/Répartition Humains et Kémos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Lore Général"
+              "title": "Plan de Répartition Humains et Kémos"
             }
           }
         ]
@@ -216,10 +216,10 @@
   },
   "active": "65594082cded7173",
   "lastOpenFiles": [
+    "01 - Univers/Lore Général.md",
     "02 - Personnages/Auren P. Bordage.md",
     "98 - Glossaire/98_2_Glossaire_Lieux.md",
     "01 - Univers/Phéromones & interactions.md",
-    "01 - Univers/Lore Général.md",
     "01 - Univers/Répartition Humains et Kémos.md",
     "98 - Glossaire/98_0_Index_Glossaire.md",
     "98 - Glossaire/98_1_Glossaire_Castes.md",

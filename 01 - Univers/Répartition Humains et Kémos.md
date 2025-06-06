@@ -26,7 +26,7 @@
 - **5 %** sont exclusivement [[Kémo]]s ou [[Humain]]s
 
 ### Zones typiques :
-- [[UVM-12]] : "Unité de Vie Mixte 12", métropole avec un quartier humain [[UVM12-H]] et un quartier kémo : [[UVM12-K]], ainsi qu'un centre ville avec commerces, administrations et campus universitaire.
+- [[UVM-12]] : "Unité de Vie Mixte 12", métropole avec un quartier humain [[UVM12-H]] et un quartier kémo : [[UVM12-K]], ainsi qu'un centre ville [[UVM12-Center]] avec commerces, administrations et campus universitaire : [[Université Sarasvati]].
 - Amyntas : cité-racine kémo, accueillante mais segmentée
 - Argo V8 : centre techno-humain, réfractaire aux castes phéromonales
 
