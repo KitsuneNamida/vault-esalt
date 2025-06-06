@@ -78,7 +78,7 @@
 ## 🏫 Foyer narratif principal : [[UVM-12]]
 
 - Située sur un plateau froid (cf. climat de type Oulan-Bator)  
-- Trois zones : humaine [[UVM12-H]], kémo [[UVM12-K]], mixte [[UVM12-Center]] (campus, administration, commerces).
+- Trois zones : humaine [[UVM12-H]], kémo [[UVM12-K]], mixte [[UVM12-Center]] (campus : [[Université Sarasvati]], administration, commerces).
 - Étudiants notables : [[London F. Hamilton]], [[Auren P. Bordage]]
 
 ---

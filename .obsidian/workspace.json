@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Univers/Phéromones & interactions.md",
+                "file": "01 - Univers/Lore Général.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phéromones & interactions"
+              "title": "Lore Général"
             },
             "group": "d17a32aea7eadc5b"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 - Univers/Phéromones & interactions.md",
+                "file": "01 - Univers/Lore Général.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de Phéromones & interactions"
+              "title": "Graphique de Lore Général"
             },
             "group": "d17a32aea7eadc5b"
           }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Univers/Phéromones & interactions.md",
+                "file": "01 - Univers/Lore Général.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Phéromones & interactions"
+              "title": "Rétrolien pour Lore Général"
             }
           },
           {
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Univers/Phéromones & interactions.md",
+                "file": "01 - Univers/Lore Général.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Phéromones & interactions"
+              "title": "Liens sortants de Lore Général"
             }
           },
           {
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Univers/Phéromones & interactions.md",
+                "file": "01 - Univers/Lore Général.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Phéromones & interactions"
+              "title": "Plan de Lore Général"
             }
           }
         ]
@@ -216,14 +216,14 @@
   },
   "active": "65594082cded7173",
   "lastOpenFiles": [
+    "02 - Personnages/Auren P. Bordage.md",
+    "98 - Glossaire/98_2_Glossaire_Lieux.md",
+    "01 - Univers/Phéromones & interactions.md",
     "01 - Univers/Lore Général.md",
     "01 - Univers/Répartition Humains et Kémos.md",
-    "98 - Glossaire/98_2_Glossaire_Lieux.md",
     "98 - Glossaire/98_0_Index_Glossaire.md",
     "98 - Glossaire/98_1_Glossaire_Castes.md",
     "02 - Personnages/London F. Hamilton.md",
-    "02 - Personnages/Auren P. Bordage.md",
-    "01 - Univers/Phéromones & interactions.md",
     "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.2 - Entrées croisées.md",
     "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.1 - L’auditorium, les regards, les silences.md",
     "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.0 - Collision.md",

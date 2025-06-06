@@ -13,7 +13,7 @@
 
 - **Espèce :** [[Humain]]
 - **Âge :** 18 ans  
-- **Lieu de vie :** [[UVM-12]]  
+- **Lieu de vie :** [[UVM12-H]]  
 - **Statut :** Étudiant en première année  
 - **Section :** [[Université Sarasvati]] — Faculté des sciences comportementales  
 - **Famille :** en dehors de la ville (communication distante)
