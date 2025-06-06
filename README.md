@@ -53,6 +53,8 @@ Les visuels de personnages sont générés avec **CivitAI**, en utilisant :
 
 ## 🧪 Plugins & usage Obsidian recommandés
 
+*ça être note pour moi même…*
+
 - `Dataview` → pour listes automatiques et index dynamiques
 - `Canvas` → pour visualiser les relations entre personnages ou événements
 - `File Recovery` → pour éviter les pertes malencontreuses
