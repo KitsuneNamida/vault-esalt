@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e16aa264a9230ffc",
+        "id": "93c4009d7b2421ac",
         "type": "tabs",
         "children": [
           {
-            "id": "65594082cded7173",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "98 - Glossaire/98_2_Glossaire_Lieux.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "98_2_Glossaire_Lieux"
-            },
-            "group": "d17a32aea7eadc5b"
-          }
-        ]
-      },
-      {
-        "id": "033328fd72bd84b7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d52885fd335a8fd6",
+            "id": "4babae05fa500ca4",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "98 - Glossaire/98_2_Glossaire_Lieux.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,9 +40,8 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graphique de 98_2_Glossaire_Lieux"
-            },
-            "group": "d17a32aea7eadc5b"
+              "title": "Vue graphique"
+            }
           }
         ]
       }
@@ -119,11 +96,13 @@
               "title": "Signet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "33370b6ab885eb30",
@@ -139,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "98 - Glossaire/98_2_Glossaire_Lieux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour 98_2_Glossaire_Lieux"
+              "title": "Rétroliens"
             }
           },
           {
@@ -158,12 +136,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "98 - Glossaire/98_2_Glossaire_Lieux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de 98_2_Glossaire_Lieux"
+              "title": "Liens sortants"
             }
           },
           {
@@ -187,16 +164,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "98 - Glossaire/98_2_Glossaire_Lieux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 98_2_Glossaire_Lieux"
+              "title": "Plan"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -214,16 +191,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "65594082cded7173",
+  "active": "4babae05fa500ca4",
   "lastOpenFiles": [
+    "Sans titre.canvas",
+    "02 - Personnages/London F. Hamilton.md",
+    "98 - Glossaire/98_1_Glossaire_Castes.md",
+    "98 - Glossaire/98_0_Index_Glossaire.md",
+    "Varkh.md",
+    "98 - Glossaire/98_2_Glossaire_Lieux.md",
+    "02 - Personnages/Auren P. Bordage.md",
+    "06 - Formulaires/FICHE_PERSO_MODELE.md",
     "01 - Univers/Répartition Humains et Kémos.md",
     "01 - Univers/Lore Général.md",
-    "02 - Personnages/Auren P. Bordage.md",
-    "98 - Glossaire/98_2_Glossaire_Lieux.md",
     "01 - Univers/Phéromones & interactions.md",
-    "98 - Glossaire/98_0_Index_Glossaire.md",
-    "98 - Glossaire/98_1_Glossaire_Castes.md",
-    "02 - Personnages/London F. Hamilton.md",
     "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.2 - Entrées croisées.md",
     "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.1 - L’auditorium, les regards, les silences.md",
     "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.0 - Collision.md",
@@ -244,9 +224,7 @@
     "05 - Annexes/05.1 - Visuels/auren_portrait.jpeg",
     "05 - Annexes/05.1 - Visuels/5HKMD5A405C8JQX1Y3Y8E8TG30.jpeg",
     "05 - Annexes/05.1 - Visuels/london_portrait.jpeg",
-    "06 - Formulaires/FICHE_PERSO_MODELE.md",
     "Phéromones et interactions.md",
-    "Varkh.md",
     "Bienvenue.md"
   ]
 }
