@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Personnages/London F. Hamilton.md",
+                "file": "04 - Visuels & Prompts/CHARA_DESIGN LONDON_F._HAMILTON.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "London F. Hamilton"
+              "title": "CHARA_DESIGN LONDON_F._HAMILTON"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Personnages/London F. Hamilton.md",
+                "file": "04 - Visuels & Prompts/CHARA_DESIGN LONDON_F._HAMILTON.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de London F. Hamilton"
+              "title": "Plan de CHARA_DESIGN LONDON_F._HAMILTON"
             }
           }
         ],
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,10 +167,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "12bbbaa78ffd55bd",
+  "active": "930088c48bfa4968",
   "lastOpenFiles": [
-    "98 - Glossaire/98_1_Glossaire_Castes.md",
+    "04 - Visuels & Prompts/CHARA_DESIGN AUREN_P._BORDAGE.md",
+    "04 - Visuels & Prompts/CHARA_DESIGN LONDON_F._HAMILTON.md",
     "02 - Personnages/London F. Hamilton.md",
+    "98 - Glossaire/98_1_Glossaire_Castes.md",
     "Famille Hamilton.md",
     "02 - Personnages/Auren P. Bordage.md",
     "Varkh.md",
