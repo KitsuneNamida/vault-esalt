@@ -17,13 +17,17 @@ Le ton est semi-réaliste, teinté de sensualité retenue, dans une esthétique 
 
 ## 🗂️ Organisation du Vault
 
-| Dossier                  | Contenu principal |
-|--------------------------|-------------------|
-| `01 - Univers/`          | Lore général, castes, biologie, institutions |
-| `02 - Personnages/`      | Fiches détaillées des protagonistes |
-| `03 - Intrigue/`         | Arcs narratifs, structure dramatique |
-| `06 - Formulaires/`      | Modèles de scène, personnage, fiche-lieu |
-| `07 - Roman/`            | Roman découpé par chapitres et scènes |
+| Dossier              | Contenu principal                                 |
+| -------------------- | ------------------------------------------------- |
+| `01 - Univers/`      | Lore général, castes, biologie, institutions      |
+| `02 - Personnages/`  | Fiches détaillées des protagonistes               |
+| `03 - Intrigue/`     | Arcs narratifs, structure dramatique              |
+| `04 - Chara Design/` | Charte graphique et prompts iA                    |
+| `05 - Annexes/`      | aka. C'est utile mais je ne sais pas où le ranger |
+| `06 - Formulaires/`  | Modèles de scène, personnage, fiche-lieu          |
+| `07 - Roman/`        | Roman découpé par chapitres et scènes             |
+| `98 - Glossaire/`    | Glossaire, comme dictionnaire, ok ?               |
+
 
 ---
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Visuels & Prompts/CHARA_DESIGN LONDON_F._HAMILTON.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHARA_DESIGN LONDON_F._HAMILTON"
+              "title": "README"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Visuels & Prompts/CHARA_DESIGN LONDON_F._HAMILTON.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de CHARA_DESIGN LONDON_F._HAMILTON"
+              "title": "Plan de README"
             }
           }
         ],
@@ -167,10 +167,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "12bbbaa78ffd55bd",
+  "active": "930088c48bfa4968",
   "lastOpenFiles": [
-    "04 - Visuels & Prompts/CHARA_DESIGN AUREN_P._BORDAGE.md",
-    "04 - Visuels & Prompts/CHARA_DESIGN LONDON_F._HAMILTON.md",
+    "04 - Chara Design/CHARA_DESIGN LONDON_F._HAMILTON.md",
+    "04 - Chara Design/CHARA_DESIGN AUREN_P._BORDAGE.md",
     "02 - Personnages/London F. Hamilton.md",
     "98 - Glossaire/98_1_Glossaire_Castes.md",
     "Famille Hamilton.md",
