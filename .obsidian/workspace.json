@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "93c4009d7b2421ac",
+        "id": "8ca79316b6a20f77",
         "type": "tabs",
         "children": [
           {
-            "id": "4babae05fa500ca4",
+            "id": "12bbbaa78ffd55bd",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
+                "file": "98 - Glossaire/98_1_Glossaire_Castes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "icon": "lucide-file",
+              "title": "98_1_Glossaire_Castes"
             }
           }
         ]
@@ -96,13 +74,11 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "33370b6ab885eb30",
@@ -164,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "98 - Glossaire/98_1_Glossaire_Castes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan"
+              "title": "Plan de 98_1_Glossaire_Castes"
             }
           }
         ],
@@ -191,15 +168,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4babae05fa500ca4",
+  "active": "12bbbaa78ffd55bd",
   "lastOpenFiles": [
-    "Sans titre.canvas",
     "02 - Personnages/London F. Hamilton.md",
-    "98 - Glossaire/98_1_Glossaire_Castes.md",
-    "98 - Glossaire/98_0_Index_Glossaire.md",
-    "Varkh.md",
-    "98 - Glossaire/98_2_Glossaire_Lieux.md",
+    "Famille Hamilton.md",
     "02 - Personnages/Auren P. Bordage.md",
+    "98 - Glossaire/98_1_Glossaire_Castes.md",
+    "Varkh.md",
+    "Sans titre.canvas",
+    "98 - Glossaire/98_0_Index_Glossaire.md",
+    "98 - Glossaire/98_2_Glossaire_Lieux.md",
     "06 - Formulaires/FICHE_PERSO_MODELE.md",
     "01 - Univers/Répartition Humains et Kémos.md",
     "01 - Univers/Lore Général.md",
