@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Formulaires/FICHE_SCENE_MODELE.md",
-                "mode": "source",
+                "file": "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.7 - Protéines matinales.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "FICHE_SCENE_MODELE"
+              "title": "02.7 - Protéines matinales"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Formulaires/FICHE_SCENE_MODELE.md",
+                "file": "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.7 - Protéines matinales.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de FICHE_SCENE_MODELE"
+              "title": "Plan de 02.7 - Protéines matinales"
             }
           }
         ],
@@ -167,11 +167,24 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "12bbbaa78ffd55bd",
+  "active": "930088c48bfa4968",
   "lastOpenFiles": [
-    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.0 - Collision.md",
-    "06 - Formulaires/FICHE_SCENE_MODELE.md",
+    "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.6 - Coton et Sarrasin.md",
+    "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.7 - Protéines matinales.md",
+    "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.5 - Dans le grand bain.md",
+    "test.md",
+    "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.4 - Sapiens.md",
+    "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.2 - Un nouvel univers.md",
+    "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.3 - Cuir & Lao Ban Zhang.md",
+    "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.1 - Changement d'ambiance.md",
+    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.3 - Absence et expédition.md",
+    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.1 - L’auditorium, les regards, les silences.md",
     "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.2 - Entrées croisées.md",
+    "01 - Univers/Répartition Humains et Kémos.md",
+    "01 - Univers/Phéromones & interactions.md",
+    "01 - Univers/Lore Général.md",
+    "06 - Formulaires/FICHE_SCENE_MODELE.md",
+    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.0 - Collision.md",
     "README.md",
     "04 - Chara Design/CHARA_DESIGN LONDON_F._HAMILTON.md",
     "04 - Chara Design/CHARA_DESIGN AUREN_P._BORDAGE.md",
@@ -183,15 +196,8 @@
     "Sans titre.canvas",
     "98 - Glossaire/98_0_Index_Glossaire.md",
     "98 - Glossaire/98_2_Glossaire_Lieux.md",
-    "06 - Formulaires/FICHE_PERSO_MODELE.md",
-    "01 - Univers/Répartition Humains et Kémos.md",
-    "01 - Univers/Lore Général.md",
-    "01 - Univers/Phéromones & interactions.md",
-    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.1 - L’auditorium, les regards, les silences.md",
-    "06 - Formulaires/FICHE_ENTREEJOURNAL_VULPESLAGO741.md",
     "Nouveau Text Document.txt",
     "98 - Glossaire",
-    "Université Polyspécifique Sarasvati.md",
     "07 - Roman/07.1 - Chapitres/07.1_06 - Apprentissage",
     "07 - Roman/07.1 - Chapitres/07.1_05 - Lupus en devenir",
     "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement",
@@ -202,8 +208,6 @@
     "07 - Roman/07.1 - Chapitres",
     "05 - Annexes/05.1 - Visuels/auren_portrait.jpeg",
     "05 - Annexes/05.1 - Visuels/5HKMD5A405C8JQX1Y3Y8E8TG30.jpeg",
-    "05 - Annexes/05.1 - Visuels/london_portrait.jpeg",
-    "Phéromones et interactions.md",
-    "Bienvenue.md"
+    "05 - Annexes/05.1 - Visuels/london_portrait.jpeg"
   ]
 }
