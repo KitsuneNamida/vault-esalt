@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.7 - Protéines matinales.md",
+                "file": "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04.7 - Vers l’inconnu et au-delà.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "02.7 - Protéines matinales"
+              "title": "04.7 - Vers l’inconnu et au-delà"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.7 - Protéines matinales.md",
+                "file": "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04.7 - Vers l’inconnu et au-delà.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 02.7 - Protéines matinales"
+              "title": "Plan de 04.7 - Vers l’inconnu et au-delà"
             }
           }
         ],
@@ -169,33 +169,36 @@
   },
   "active": "930088c48bfa4968",
   "lastOpenFiles": [
-    "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.6 - Coton et Sarrasin.md",
+    "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04.6 - Pyjama Party.md",
+    "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04.7 - Vers l’inconnu et au-delà.md",
+    "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04.5 - ex-RPC Shower.md",
+    "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04.4 - Auren, les garçons, à table.md",
+    "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04.3 - Bienvenue chez les Bordage.md",
+    "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04.2 - HumanLand.md",
+    "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04.1 - Lupus en pelluche.md",
+    "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04 - NDLA.md",
+    "07 - Roman/07.1 - Chapitres/07.1_03 - Retour marqué/03.4 - L'Oeil de STARE.md",
+    "07 - Roman/07.1 - Chapitres/07.1_03 - Retour marqué/03.4 - L'Oeil de STARE.md.crswap",
+    "07 - Roman/07.1 - Chapitres/07.1_03 - Retour marqué/03.3 - Mini Korr.md",
+    "07 - Roman/07.1 - Chapitres/07.1_03 - Retour marqué/03.3 - Mini Korr.md.crswap",
+    "07 - Roman/07.1 - Chapitres/07.1_03 - Retour marqué/03.2 - Oui, mais.md",
+    "07 - Roman/07.1 - Chapitres/07.1_03 - Retour marqué/03.1 - L'Odeur de l'autre.md",
+    "07 - Roman/07.1 - Chapitres/07.1_03 - Retour marqué/03 - NDLA.md",
+    "07 - Roman/07.1 - Chapitres/07.1_03 - Retour marqué/03 - NDLA.md.crswap",
+    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.0 - Collision.md",
+    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01 - NDLA.md",
+    "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02 - NDLA.md",
+    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.1 - L’auditorium, les regards, les silences.md",
+    "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.2 - Un nouvel univers.md",
+    "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.1 - Changement d'ambiance.md",
     "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.7 - Protéines matinales.md",
+    "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.6 - Coton et Sarrasin.md",
     "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.5 - Dans le grand bain.md",
     "test.md",
     "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.4 - Sapiens.md",
-    "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.2 - Un nouvel univers.md",
     "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.3 - Cuir & Lao Ban Zhang.md",
-    "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.1 - Changement d'ambiance.md",
     "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.3 - Absence et expédition.md",
-    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.1 - L’auditorium, les regards, les silences.md",
-    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.2 - Entrées croisées.md",
-    "01 - Univers/Répartition Humains et Kémos.md",
-    "01 - Univers/Phéromones & interactions.md",
-    "01 - Univers/Lore Général.md",
-    "06 - Formulaires/FICHE_SCENE_MODELE.md",
-    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.0 - Collision.md",
-    "README.md",
-    "04 - Chara Design/CHARA_DESIGN LONDON_F._HAMILTON.md",
-    "04 - Chara Design/CHARA_DESIGN AUREN_P._BORDAGE.md",
-    "02 - Personnages/London F. Hamilton.md",
-    "98 - Glossaire/98_1_Glossaire_Castes.md",
-    "Famille Hamilton.md",
-    "02 - Personnages/Auren P. Bordage.md",
-    "Varkh.md",
     "Sans titre.canvas",
-    "98 - Glossaire/98_0_Index_Glossaire.md",
-    "98 - Glossaire/98_2_Glossaire_Lieux.md",
     "Nouveau Text Document.txt",
     "98 - Glossaire",
     "07 - Roman/07.1 - Chapitres/07.1_06 - Apprentissage",
@@ -203,9 +206,6 @@
     "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement",
     "07 - Roman/07.1 - Chapitres/07.1_03 - Retour marqué",
     "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London",
-    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre",
-    "07 - Roman/07.2 - Annexes",
-    "07 - Roman/07.1 - Chapitres",
     "05 - Annexes/05.1 - Visuels/auren_portrait.jpeg",
     "05 - Annexes/05.1 - Visuels/5HKMD5A405C8JQX1Y3Y8E8TG30.jpeg",
     "05 - Annexes/05.1 - Visuels/london_portrait.jpeg"
