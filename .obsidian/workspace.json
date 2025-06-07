@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04.7 - Vers l’inconnu et au-delà.md",
+                "file": "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04 - NDLA.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "04.7 - Vers l’inconnu et au-delà"
+              "title": "04 - NDLA"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04.7 - Vers l’inconnu et au-delà.md",
+                "file": "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04 - NDLA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 04.7 - Vers l’inconnu et au-delà"
+              "title": "Plan de 04 - NDLA"
             }
           }
         ],
@@ -167,10 +167,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "930088c48bfa4968",
+  "active": "12bbbaa78ffd55bd",
   "lastOpenFiles": [
-    "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04.6 - Pyjama Party.md",
+    "Sans titre.md",
     "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04.7 - Vers l’inconnu et au-delà.md",
+    "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04.6 - Pyjama Party.md",
     "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04.5 - ex-RPC Shower.md",
     "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04.4 - Auren, les garçons, à table.md",
     "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement/04.3 - Bienvenue chez les Bordage.md",
@@ -197,7 +198,6 @@
     "test.md",
     "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.4 - Sapiens.md",
     "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02.3 - Cuir & Lao Ban Zhang.md",
-    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.3 - Absence et expédition.md",
     "Sans titre.canvas",
     "Nouveau Text Document.txt",
     "98 - Glossaire",
