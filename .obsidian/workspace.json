@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - Roman/07.1 - Chapitres/07.1_05 - Lupus en devenir/05.8 - Le regard de trop.md",
+                "file": "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.0 - Collision.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "05.8 - Le regard de trop"
+              "title": "01.0 - Collision"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 - Roman/07.1 - Chapitres/07.1_05 - Lupus en devenir/05.8 - Le regard de trop.md",
+                "file": "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.0 - Collision.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de 05.8 - Le regard de trop"
+              "title": "Plan de 01.0 - Collision"
             }
           }
         ],
@@ -167,10 +167,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "12bbbaa78ffd55bd",
+  "active": "930088c48bfa4968",
   "lastOpenFiles": [
-    "07 - Roman/07.1 - Chapitres/07.1_05 - Lupus en devenir/05.7 - Le placement.md",
+    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01 - NDLA.md",
     "07 - Roman/07.1 - Chapitres/07.1_05 - Lupus en devenir/05.8 - Le regard de trop.md",
+    "07 - Roman/07.1 - Chapitres/07.1_05 - Lupus en devenir/05.7 - Le placement.md",
     "07 - Roman/07.1 - Chapitres/07.1_05 - Lupus en devenir/05.6 - Les annotations silencieuses.md",
     "07 - Roman/07.1 - Chapitres/07.1_05 - Lupus en devenir/05.5 - Guide de survie.md",
     "07 - Roman/07.1 - Chapitres/07.1_05 - Lupus en devenir/05.4 - La maîtresse des gestes.md",
@@ -195,7 +196,6 @@
     "07 - Roman/07.1 - Chapitres/07.1_03 - Retour marqué/03 - NDLA.md",
     "07 - Roman/07.1 - Chapitres/07.1_03 - Retour marqué/03 - NDLA.md.crswap",
     "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.0 - Collision.md",
-    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01 - NDLA.md",
     "07 - Roman/07.1 - Chapitres/07.1_02 - Chez London/02 - NDLA.md",
     "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.1 - L’auditorium, les regards, les silences.md",
     "Sans titre.canvas",
