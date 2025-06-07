@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "06 - Formulaires/FICHE_SCENE_MODELE.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "FICHE_SCENE_MODELE"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "06 - Formulaires/FICHE_SCENE_MODELE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de README"
+              "title": "Plan de FICHE_SCENE_MODELE"
             }
           }
         ],
@@ -167,8 +167,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "930088c48bfa4968",
+  "active": "12bbbaa78ffd55bd",
   "lastOpenFiles": [
+    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.0 - Collision.md",
+    "06 - Formulaires/FICHE_SCENE_MODELE.md",
+    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.2 - Entrées croisées.md",
+    "README.md",
     "04 - Chara Design/CHARA_DESIGN LONDON_F._HAMILTON.md",
     "04 - Chara Design/CHARA_DESIGN AUREN_P._BORDAGE.md",
     "02 - Personnages/London F. Hamilton.md",
@@ -183,15 +187,11 @@
     "01 - Univers/Répartition Humains et Kémos.md",
     "01 - Univers/Lore Général.md",
     "01 - Univers/Phéromones & interactions.md",
-    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.2 - Entrées croisées.md",
     "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.1 - L’auditorium, les regards, les silences.md",
-    "07 - Roman/07.1 - Chapitres/07.1_01 - Rencontre/01.0 - Collision.md",
     "06 - Formulaires/FICHE_ENTREEJOURNAL_VULPESLAGO741.md",
-    "README.md",
     "Nouveau Text Document.txt",
     "98 - Glossaire",
     "Université Polyspécifique Sarasvati.md",
-    "06 - Formulaires/FICHE_SCENE_MODELE.md",
     "07 - Roman/07.1 - Chapitres/07.1_06 - Apprentissage",
     "07 - Roman/07.1 - Chapitres/07.1_05 - Lupus en devenir",
     "07 - Roman/07.1 - Chapitres/07.1_04 - Pyjama et déménagement",

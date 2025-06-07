@@ -27,7 +27,8 @@ liens_narratifs:
 
 date_intra_diegetique: "AAAA-MM-JJ"
 notes: "[Remarques personnelles, ambiance, ton, musique, etc.]"
-tags: [#scène, #roman, #chapitreXX, #lieu, #caste, #personnage]
+tags: ["#scène, #roman, #chapitreXX, #lieu, #caste, #personnage"]
+
 ---
 
 ## 📝 [Titre de la scène]
